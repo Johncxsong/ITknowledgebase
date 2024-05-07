@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: RPTS IT Knowledge Bases
+description: Documentations for IT
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
@@ -10,13 +10,19 @@ url: https://just-the-docs.github.io
 
 nav_enabled: true
 
+
+liquid:
+   error_mode: strict
+   strict_filters: true
+
 nav_sort: case_sensitive
 
+heading_anchors: true
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
-color_scheme: dark
+color_scheme: nil
 
 callouts_level: quiet # or loud
 callouts:
