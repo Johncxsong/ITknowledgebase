@@ -9,3 +9,6 @@ Template is from:
 https://github.com/just-the-docs/just-the-docs
 
 
+
+image
+`![](../../assets/images/small-image.jpg)`
