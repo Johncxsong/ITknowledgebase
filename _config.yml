@@ -4,10 +4,17 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 
+nav_enabled: true
+
+nav_sort: case_sensitive
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
 
 color_scheme: dark
 
@@ -27,3 +34,11 @@ callouts:
   warning:
     title: Warning
     color: red
+
+
+
+
+gh_edit_repository: "https://github.com/Johncxsong/ITknowledgebase.git" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
