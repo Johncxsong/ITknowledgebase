@@ -22,7 +22,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-color_scheme: nil
+color_scheme: dark
 
 callouts_level: quiet # or loud
 callouts:
