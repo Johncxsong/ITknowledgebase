@@ -2,7 +2,7 @@
 layout: default
 title: Power Automate--forms merging pdf
 parent: Software
-nav_order: 1
+nav_order: 2
 ---
 
 # Cognitoforms merging attachment as pdf to automatically uplaod to SharePoint
