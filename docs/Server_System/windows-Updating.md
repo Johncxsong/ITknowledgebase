@@ -21,3 +21,22 @@ nav_order: 3
 ```Bash
 Install-WindowsUpdate -ForceDownload -ForceInstall -Verbose -AcceptAll
 ```
+
+
+## Resolving updates if it does not update
+
+### 1. stop servers
+```Bash
+net stop bits 
+net stop wuauserv
+```
+
+### 2. delete updates files 
+`windows > softwareDistribution > delete everything`
+
+### 3. restart server 
+```Bash
+net start bits 
+
+net start wuauserv
+```
