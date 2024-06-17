@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Expiration of School Email
-parent: Server_System
-nav_order: 4
+parent: Common_Questions
+nav_order: 2
 ---
 # Expiration of School Email
 {: .no_toc }
