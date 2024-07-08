@@ -1,3 +1,4 @@
+---
 layout: default
 title: Synology
 parent: Server_System
