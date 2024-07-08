@@ -1,5 +1,5 @@
 layout: default
-title: AD_DS-GPO
+title: Synology
 parent: Server_System
 nav_order: 5
 ---
