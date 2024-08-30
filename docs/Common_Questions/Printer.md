@@ -49,6 +49,10 @@ You must be physically present in the RPTS Building to perform this set-up. Plea
 
 
 3. Download file and Follow steps  
+
 ![](../../assets/images/print5.png)  
+
+4. Enter your username and password (same as wifi login)
+
 
 
