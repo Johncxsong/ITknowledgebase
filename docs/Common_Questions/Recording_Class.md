@@ -84,6 +84,39 @@ End video call at breaks and chapel. You will have three 50-minute videos of the
 ## Team Recording   
 
 
+**1. Open Teams --> Click Calendar (left bar)**  
+
+![](../../assets/images/team1.jpg)  
+
+
+**2. Click the class to join**  
+
+![](../../assets/images/team2.jpg)  
+
+
+**3. Open Meeting OWL in PC (search bar)**   
+
+![](../../assets/images/team3.jpg)   
+
+
+**4. Join the Meeting > Click Setting to set as below**  
+![](../../assets/images/team4.jpg)  
+
+**5. After Setting, turn on Camera > should see as below**  
+![](../../assets/images/team5.jpg)    
+
+
+**6. Join the Meeting**  
+
+
+
+## Support   
+
+If you have any questions or issue, please contact IT. 
+
+
+
+
 
 
 
