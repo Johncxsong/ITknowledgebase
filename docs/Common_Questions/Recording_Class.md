@@ -77,7 +77,7 @@ End video call at breaks and chapel. You will have three 50-minute videos of the
 
 **9.Recrods save at this location**  
 
-![](../../assets/images/zoom7.png)    
+![](../../assets/images/zoom7.png)
 
 
 
