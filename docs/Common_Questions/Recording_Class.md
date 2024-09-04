@@ -25,6 +25,9 @@ nav_order: 4
 
 ## Zoom Recording  
 
+{: .note}
+Hit “input” on the TV remote and set to appropriate HDMI (either 1 or 2)
+
 **1.Open Zoom**
 
 **2.Click Calendar (on the top)**  
@@ -33,7 +36,7 @@ nav_order: 4
 **3.Scheduled classes will show up** 
 ![](../../assets/images/zoom2.jpg)    
 
-**4.Check the Audio**
+**4.Check the Audio**  
 
 Microphone is located at Desktop, and plugin to charge. Press button to get receiver and micrphone connect.
 
@@ -50,13 +53,19 @@ Press both button at same time, and it will automatically connect.
 
 ![](../../assets/images/zoom3.jpg)   
 
-**6.After enter the meeting, Click the micrphone Icon to make sure setting is same as images below (red box)**  
+**6.After enter the meeting, Click the micrphone Icon to make sure setting is same as images below (red box)**    
 
+{: .note}
+Audio: Speaker is set to “Element TV”, Audio: “Wireless Go II RX” is set as the microphone
+{: .note}
+Video: Camera is set to “Logitech” 
 
 ![](../../assets/images/zoom4.jpg)   
 
-**7.Click Record button**  
+**7.Click Record button**    
 
+{: .note}
+End video call at breaks and chapel. You will have three 50-minute videos of the class.
 
 ![](../../assets/images/zoom5.jpg)  
 
@@ -72,9 +81,9 @@ Press both button at same time, and it will automatically connect.
 
 
 
+## Team Recording   
 
 
-## Team Recording  
 
 
 
