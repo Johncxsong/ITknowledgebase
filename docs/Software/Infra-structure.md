@@ -30,20 +30,17 @@ Download Center > Link Sharing > Send the link to new PC
 172.16.10.197
 
 ## Sonic FireWall 
-172.16.10.1– main building 
-172.16.100.1 – wilson building
 
 ## PaperCut server 
-172.16.30.16:9191
+
 
 ## Printer 
-Front office: 172.16.10.88
-Library Student: 172.16.30.92
 
-BCI: 172.16.100.154
+
+
 
 ## Bell( papercut)
-172.16.30.16:52051
+
 Restart: cmd--> service.msc --> my media for alex service. 
 
 ## Wifi 

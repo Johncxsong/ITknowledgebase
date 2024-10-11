@@ -44,9 +44,7 @@ You must be physically present in the RPTS Building to perform this set-up. Plea
 
 1. Connect WIFI and Open your Browser  
 
-
-2. Type `172.16.30.16:9163/setup`   
-
+2. Ask IT for package
 
 3. Download file and Follow steps  
 
